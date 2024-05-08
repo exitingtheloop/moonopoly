@@ -250,6 +250,10 @@ body {
     width: 200px;
   }
 
+  .header h1 {
+    font-size: 3rem;
+  }
+
   .header h1::before,
   .header h1::after {
     width: 2rem;

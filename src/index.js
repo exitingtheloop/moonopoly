@@ -157,7 +157,7 @@ function Menu() {
 function Footer() {
   return (
     <footer className="footer">
-      <div style={{ margin: "20px" }}>
+      <div style={{ margin: "20px", textAlign: "center" }}>
         Simply by the community, for the community{" "}
         <a href="https://twitter.com/moonopoly_cto">$MOONOPOLY</a>
       </div>
